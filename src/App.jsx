@@ -65,7 +65,7 @@ const App = () => {
 			<TodoForm postRequest={postRequest} />
 			<TodoList tasks={tasks} deleteRequest={deleteRequest} />
 			<ToastContainer/>
-			<a href="sms:+996501071101">
+			<a href="tel:+996501071101">
 				Связатся с нами
 			</a>
 		</div>
